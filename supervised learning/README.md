@@ -1,9 +1,9 @@
 ### Required libraries:
-numpy 1.14.5
-matplotlib 2.2.2
-sklearn 0.19.0
-scipy 1.1.0
-pandas 0.23.4
+* numpy 1.14.5
+* matplotlib 2.2.2
+* sklearn 0.19.0
+* scipy 1.1.0
+* pandas 0.23.4
 	
 ### Data:
 1. https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data
