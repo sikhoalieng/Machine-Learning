@@ -1,3 +1,6 @@
+### Python Version
+python 3.5.2
+
 ### Required libraries:
 * numpy 1.14.5
 * matplotlib 2.2.2
@@ -16,12 +19,12 @@ The code has been split into four Jupyter Notebook file:
 1. Gamma Telescope Dataset ML GridSearch.ipynb
 2. Spambase Dataset ML GridSearch.ipynb
 
-Two Jupyter Notebooks test the data on unseen test set and generate plots
+### Two Jupyter Notebooks test the data on unseen test set and generate plots:
 1. Gamma Telescope Dataset ML Trials.ipynb
 2. Spambase Dataset ML Trials.ipynb
 
 ### Running the code:
-The Jupyter Notebooks are to be executed in the following order:
+The Jupyter Notebooks preferred executing order:
 1. Gamma Telescope Dataset ML GridSearch.ipynb
 2. Spambase Dataset ML GridSearch.ipynb
 3. Gamma Telescope Dataset ML Trials.ipynb
