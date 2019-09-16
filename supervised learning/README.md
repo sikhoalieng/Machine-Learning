@@ -9,8 +9,8 @@ python 3.5.2
 * pandas 0.23.4
 	
 ### Data:
-1. https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data
-2. https://archive.ics.uci.edu/ml/machine-learning-databases/magic/magic04.data
+1. [Spambase Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data)
+2. [MAGIC Gamma Telescope Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/magic/magic04.data)
 	
 ### Code files:
 The code has been split into four Jupyter Notebook file:
@@ -34,4 +34,4 @@ The Jupyter Notebooks preferred executing order:
 * Datasets are downloaded directly when notebooks are executed
 
 ### Code credit:
-Python Machine Learning 1st Edition [https://github.com/rasbt/python-machine-learning-book]
+[Python Machine Learning 1st Edition](https://github.com/rasbt/python-machine-learning-book)
