@@ -15,6 +15,7 @@ python 3.7.4
 ### Code files:
 1. Randomized Optimization - mlrose (testing RHC, SA, GA, and MIMIC on optimization problems)
 2. Spambase CV - mlrose.ipynb (gradient descent (GD) vs. RHC, SA, and GA for NN weight updates)
+3. Spambase (RHC & SA) - mlrose.ipynb (rerunning RHC and SA with more iterations)
 
 ### Running the code:
 * To execute the notebooks, simply open them and go to Kernel -> Restart & Run All
