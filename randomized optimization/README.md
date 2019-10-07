@@ -7,7 +7,7 @@ python 3.7.4
 * sklearn 0.21.3
 * pandas 0.25.1
 * scipy 1.3.1
-* mlrose (-e git://github.com/hiive/mlrose@e1bea8add99a0d1d173e41a2fa4817c63b45702c#egg=mlrose_hiive)
+* [mlrose](-e git://github.com/hiive/mlrose@e1bea8add99a0d1d173e41a2fa4817c63b45702c#egg=mlrose_hiive)
 	
 ### Data:
 * [Spambase Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data)
