@@ -14,16 +14,16 @@ python 3.7.4
 	
 ### Code files:
 1. Spambase - Clustering and DR
-	* Kmeans and EM on raw data
 	* PCA, KPCA, ICA, GRP, and LDA on raw data
 	* Kmeans and EM on raw data processed via PCA, KPCA, ICA, GRP, and LDA
 2. MAGIC - Clustering and DR
-	* Kmeans and EM on raw data
 	* PCA, KPCA, ICA, GRP, and LDA on raw data
 	* Kmeans and EM on raw data processed via PCA, KPCA, ICA, GRP, and LDA
 3. Spambase - NN with Clustering and DR
+	* Kmeans and EM on raw data
 	* NN on data augmented/processed with Kmeans, EM, PCA, KPCA, ICA, GRP, and LDA
 4. MAGIC - NN with Clustering and DR
+	* Kmeans and EM on raw data
 	* NN on data augmented/processed with Kmeans, EM, PCA, KPCA, ICA, GRP, and LDA
 
 Optional: Notebooks ending in (2 components) were used to generate data that can be visualized in 2D
