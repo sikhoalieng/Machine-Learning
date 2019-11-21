@@ -26,9 +26,9 @@ To execute Frozen Lake notebooks, modified frozen_lake.py replaces the original 
 * Assumes necessary "figures" folder structure has been created
 
 ### Code credit:
-[Sudharsan Ravichandiran](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
-[Holly Grim](https://github.com/hollygrimm/markov-decision-processes)
-[Steven Cordwell](http://sawcordwell.github.io/mdp/conservation/2015/01/10/possingham1997-1/)
+[Sudharsan Ravichandiran](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)\
+[Holly Grim](https://github.com/hollygrimm/markov-decision-processes)\
+[Steven Cordwell](http://sawcordwell.github.io/mdp/conservation/2015/01/10/possingham1997-1/)\
 [Andrew Rollings](https://github.com/hiive/hiivemdptoolbox#egg=hiive.mdptoolbox)
 
 ### Link to code repository:
