@@ -18,7 +18,7 @@ gym==0.15.4
 h5py==2.9.0
 hiive.mdptoolbox==4.0b4.dev0
 ipykernel==5.1.2
-ipython==7.8.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.15.1
 Jinja2==2.10.1
